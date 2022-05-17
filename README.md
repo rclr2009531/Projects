@@ -1,3 +1,2 @@
 # hello-world
-hello-world
-1.test
+This repository contains data analysis projects.
